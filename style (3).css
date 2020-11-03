@@ -1,0 +1,25 @@
+body{
+    background-color: lightpink;
+}
+.container h1
+{
+    font-family: 'Special Elite', cursive;
+}
+#image
+{
+    height: 100px;
+    width:100px;
+}
+.webcam ,snapshot_img
+{
+    border: 2px  deeppink dashed;
+    padding:20px ;
+
+}
+#camera, #snapshot_img
+{ 
+    height:350px;
+    width:400px;
+    border: 2px  deeppink dashed;
+    padding:20px ;
+}
